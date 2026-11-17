@@ -1,0 +1,11 @@
+{
+  "name": "levelup-farsi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Level Up | Farsi - static landing page (index.html, no build step)",
+  "scripts": {
+    "dev": "npx --yes serve .",
+    "start": "npx --yes serve .",
+    "build": "echo \"Static site - nothing to build\""
+  }
+}
